@@ -16,6 +16,7 @@ with proper access permissions.
 -   Public and private access permissions
 -   Scalability and availability
 -   Pay-as-you-use pricing model
+Platform: AWS S3 / Azure Blob Storage
 
 ------------------------------------------------------------------------
 
@@ -35,8 +36,8 @@ resources were allocated.
 -   OS installation
 -   Resource allocation (RAM, storage)
 -   VM start, stop, and snapshot operations
-
-------------------------------------------------------------------------
+  Tools Used: VirtualBox / VMware
+  -----------------------------------------------------------------------
 
 ## 3. Static Website Development
 
@@ -53,6 +54,7 @@ details.
 -   CSS styling
 -   Basic web design principles
 
+
 ------------------------------------------------------------------------
 
 ## 4. Database Mini Project
@@ -64,7 +66,7 @@ details.
 Basic database tables were created and simple queries were written to
 perform CRUD operations.
 
-### Key Learnings
+# Key Learnings
 
 -   Database concepts
 -   SQL queries
